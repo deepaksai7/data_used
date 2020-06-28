@@ -18,4 +18,4 @@ def network_data():
 if __name__ == "__main__":
     tl.start(block=True)
 
-#here wlp2s0 is the interface name. Your's may be different. You can with typing "ifconfig" in terminal
+#here wlp2s0 is the interface name. Your's may be different. You can check by typing "ifconfig" in terminal
